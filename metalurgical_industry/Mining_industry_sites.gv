@@ -1,0 +1,7 @@
+digraph Mining_industry_sites {
+	"цветная" -> "delprof.ru/press-center/open-analytics/metallurgicheskaya-otrasl-v-rossii-krupneyshie-proizvoditeli-stali-/"
+	"цветная" -> "aitcom.ru/stati/218-metallurgiya-otrasl-promyishlennosti"
+	"цветная" -> "spravochnick.ru/ekonomika/vidy_i_formy_promyshlennosti/metallurgicheskaya_promyshlennost/"
+	"цветная" -> "www.kp.ru/expert/proizvoditeli/luchshie-metallurgicheskie-zavody/"
+	"цветная" -> "moluch.ru/archive/387/85131/"
+}
