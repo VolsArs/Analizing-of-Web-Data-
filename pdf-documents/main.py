@@ -18,8 +18,6 @@ def save_text_pdftext(filePath):
         current_page = reader.pages[page]
         text = current_page.extract_text()
         my_file.write(text)
-        # with open('test.txt', "w", encoding="utf-8") as file:
-        #      file.write(text)
 
 
 def save_text_picture(filePath):
